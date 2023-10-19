@@ -1,6 +1,5 @@
 # Kubernetes
 
-Sure! Here's the modified text in a Markdown (MD) format:
 
 1. **kubectl create deployment httpenv --image=bretfisher/httpenv**:
    - Description: Creates a deployment named "httpenv" using the "bretfisher/httpenv" image.
